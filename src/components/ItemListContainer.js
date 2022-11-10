@@ -1,4 +1,3 @@
-import NavBar from "./NavBar";
 
 const ItemListContainer = ({ greeting }) => {
     return (
